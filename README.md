@@ -1,12 +1,9 @@
 # 👋 Hello, I'm Osman Aslan
 
-![Profile Banner](https://imgur.com/your-image.png)
-
 Welcome to my GitHub profile! I'm an innovative R&D engineer with a passion for electronics, software, and embedded systems. Here, you'll find some of the projects I've been working on and a bit about my professional journey.
 
 ## 🚀 About Me
 
-- 🌍 Based in Izmir, Turkey
 - 🔭 Currently working on real-time safety monitoring and alert systems for industrial worksites
 - 💡 Expertise in developing AI-driven applications and real-time monitoring solutions
 - 📚 Lifelong learner, always exploring new technologies and advancements
@@ -55,7 +52,6 @@ Designed a module that detects the number of occupants in a classroom and manage
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [oaslananka@gmail.com](mailto:oaslananka@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/oaslananka](https://www.linkedin.com/in/oaslananka/)
 - 💻 GitHub: [github.com/oaslananka](https://github.com/oaslananka)
 
