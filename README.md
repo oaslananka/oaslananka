@@ -60,3 +60,4 @@ Designed a module that detects the number of occupants in a classroom and manage
 ✨ **"Innovation is the ability to see change as an opportunity, not a threat."**
 
 Thank you for visiting my profile! Let's connect and create something amazing together!
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
