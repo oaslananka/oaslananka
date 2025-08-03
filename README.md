@@ -1,115 +1,248 @@
-# Osman Aslan
+<div align="center">
 
-## Software & Embedded Systems Engineer | AI/ML · IoT · Real-Time Data Processing
+# 👋 Hi, I'm Osman Aslan
 
-![visitor-badge](https://visitor-badge.laobi.icu/badge?page_id=oaslananka)  [![Followers](https://img.shields.io/github/followers/oaslananka?label=Follow&style=social)](https://github.com/oaslananka)
-[![Stars](https://img.shields.io/github/stars/oaslananka?label=Stars&style=social)](https://github.com/oaslananka?tab=stars)
+### 🚀 Software & Embedded Systems Engineer | AI/ML Specialist | IoT Architect
 
----
-
-## About Me
-
-Software and Embedded Systems Engineer with 12+ years in Python, 10+ years in C/C++, 9 years in AI/ML, and 10+ years in IoT. I design and deliver end-to-end solutions—from microcontroller firmware and PCB design to cloud-based data pipelines and AI-driven analytics.
-
-- 🔭 Currently building real-time safety monitoring and alert systems for industrial worksites
-- 🌐 Proven track record in AI-powered predictive maintenance, anomaly detection, and computer vision
-- 📈 Skilled at bridging hardware-software workflows and scaling systems on AWS, Docker, and Kubernetes
-- 📚 Lifelong learner, constantly exploring new technologies in embedded systems, ML, and DevOps
+*Building innovative solutions that bridge the physical and digital worlds*
 
 ---
 
-## 🛠 Technical Skills
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=800&height=100&lines=12%2B+Years+in+Python+%7C+10%2B+Years+in+C%2FC%2B%2B;AI%2FML+%7C+IoT+%7C+Embedded+Systems;Real-Time+Data+Processing+%7C+Cloud+Architecture" alt="Typing SVG" />
+</p>
 
-### 👨‍💻 Programming Languages
+[![Profile Views](https://komarev.com/ghpvc/?username=oaslananka&color=blue&style=flat-square&label=Profile+Views)](https://github.com/oaslananka)
+[![GitHub Followers](https://img.shields.io/github/followers/oaslananka?label=Followers&style=flat-square&color=blue)](https://github.com/oaslananka)
+[![GitHub Stars](https://img.shields.io/github/stars/oaslananka?label=Stars&style=flat-square&color=yellow)](https://github.com/oaslananka?tab=stars)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ DevOps & Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 🧠 AI / ML / Data
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FF7F0E?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-00A3E0?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FD7A00?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FF4B00?style=for-the-badge&logo=langchain&logoColor=white)
-
-### 🧪 Monitoring & Testing
-
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-### ⚙️ Embedded & Hardware
-
-![ESP32](https://img.shields.io/badge/ESP32-323330?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-EE7C2B?style=for-the-badge&logo=platformio&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB3?style=for-the-badge)
-![Altium Designer](https://img.shields.io/badge/Altium-FFD700?style=for-the-badge)
-
-### 📡 Messaging / DB
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22A39F?style=for-the-badge&logo=influxdb&logoColor=white)
-
-### 🔗 APIs & Integration
-
-![REST](https://img.shields.io/badge/REST-FF6F00?style=for-the-badge)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge)
+</div>
 
 ---
 
-## 🚀 Selected Projects
+## 🎯 About Me
 
-- **Earthquake Early Warning System** — Multi-channel sensor network, ML-based seismic classification, and live alert pipelines.
-- **Smart Agriculture Platform** — Drone image analysis, plant disease & ripeness detection with TensorFlow and OpenCV.
-- **Predictive Maintenance** — Edge data collection, anomaly detection models, real-time alerts in manufacturing setups.
-- **AI Crypto Trading Bot** — Real-time market prediction and automated execution via REST APIs.
+> *Passionate Software & Embedded Systems Engineer with 12+ years of experience crafting intelligent, scalable solutions*
 
-- **IoT Home Automation** — Smart home system with real-time monitoring, control via mobile app, and cloud integration.
+🔹 **12+ years** in Python development  
+🔹 **10+ years** in C/C++ and embedded systems  
+🔹 **9+ years** in AI/ML and data science  
+🔹 **10+ years** in IoT architecture and implementation  
 
-- **Real-Time Video Processing** — Object detection and tracking using OpenCV and TensorFlow on embedded devices.
+I specialize in creating **end-to-end solutions** that seamlessly integrate hardware and software—from microcontroller firmware and PCB design to cloud-based data pipelines and AI-driven analytics.
+
+### 🌟 What I'm Working On
+
+```yaml
+current_focus:
+  - 🔭 Real-time safety monitoring systems for industrial environments
+  - 🧠 AI-powered predictive maintenance solutions
+  - 🌐 Scalable IoT architectures on cloud platforms
+  - 📱 Computer vision applications for automation
+
+specialties:
+  - Hardware-Software Integration
+  - Real-Time Data Processing
+  - Edge Computing & AI
+  - Industrial IoT Solutions
+```
 
 ---
 
-## 📈 GitHub Stats ⏱️ Coding Activity (WakaTime)
+## 🛠️ Tech Stack & Expertise
+
+<details>
+<summary><b>🔥 Click to explore my technical arsenal</b></summary>
+
+### 💻 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,javascript,kotlin,go,bash,postgresql" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,ansible,linux" />
+</p>
+
+### � AI/ML & Data Science
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-00A3E0?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FD7A00?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-FF4B00?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
+### 🔧 Embedded & Hardware
+<p align="left">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/PlatformIO-EE7C2B?style=for-the-badge&logo=platformio&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Messaging
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,kafka" />
+<img src="https://img.shields.io/badge/InfluxDB-22A39F?style=for-the-badge&logo=influxdb&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
+
+### 📊 Monitoring & Analytics
+<p align="left">
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌟 Showcase of Innovation & Impact
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏗️ **Earthquake Early Warning System**
+> *Multi-channel sensor network with ML-based seismic classification*
+
+**Tech Stack:** `Python` `TensorFlow` `IoT Sensors` `Real-time Processing`
+
+🔹 Machine learning seismic event classification  
+🔹 Multi-sensor data fusion and analysis  
+🔹 Live alert pipeline and notification system  
+🔹 Sub-second response time architecture
+
+</td>
+<td width="50%">
+
+#### 🌱 **Smart Agriculture Platform**
+> *AI-powered crop monitoring and disease detection*
+
+**Tech Stack:** `Computer Vision` `OpenCV` `TensorFlow` `Drone Integration`
+
+🔹 Automated plant disease detection  
+🔹 Crop ripeness assessment algorithms  
+🔹 Drone-based image analysis pipeline  
+🔹 Real-time agricultural insights dashboard
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### ⚙️ **Predictive Maintenance System**
+> *Industrial IoT with edge computing and anomaly detection*
+
+**Tech Stack:** `Edge Computing` `Time Series Analysis` `AWS IoT` `ML Models`
+
+🔹 Edge-based data collection and processing  
+🔹 Anomaly detection and pattern recognition  
+🔹 Predictive failure analysis models  
+🔹 Real-time manufacturing alerts
+
+</td>
+<td width="50%">
+
+#### 💰 **AI Crypto Trading Bot**
+> *Intelligent market prediction and automated trading*
+
+**Tech Stack:** `Python` `Machine Learning` `API Integration` `Real-time Data`
+
+🔹 Real-time market data analysis  
+🔹 Predictive trading algorithms  
+🔹 Automated execution via REST APIs  
+🔹 Risk management and portfolio optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🏠 **IoT Home Automation**
+> *Smart home ecosystem with mobile integration*
+
+**Tech Stack:** `IoT Devices` `Mobile Apps` `Cloud Integration` `Real-time Control`
+
+🔹 Multi-device smart home coordination  
+🔹 Mobile app for remote control  
+🔹 Cloud-based monitoring and analytics  
+🔹 Energy optimization algorithms
+
+</td>
+<td width="50%">
+
+#### 📹 **Real-Time Video Processing**
+> *Edge-based object detection and tracking*
+
+**Tech Stack:** `OpenCV` `TensorFlow` `Embedded Systems` `Real-time Processing`
+
+🔹 Object detection and classification  
+🔹 Multi-object tracking algorithms  
+🔹 Embedded device optimization  
+🔹 Low-latency video processing pipeline
+
+</td>
+</tr>
+</table>
+
+---
+
+## � GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=oaslananka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oaslananka&theme=tokyonight&hide_border=true" />
+
+
+</div>
+
+### ⏱️ Weekly Development Breakdown
+
+<div align="center">
 
 [![WakaTime Stats](https://wakatime.com/share/@oaslananka/a42cc969-88ac-45ca-a4b7-afba5bce83b4.png)](https://wakatime.com/@oaslananka)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oaslananka&show_icons=true&theme=radical&count_private=true&hide=prs,issues,contribs)
+</div>
 
-## 📫 Connect with Me
+---
 
-- 🔗 LinkedIn: [linkedin.com/in/oaslananka](https://www.linkedin.com/in/oaslananka)  
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+### 🤝 Open to exciting opportunities and innovative projects!
+
+<p align="center">
+<a href="https://www.linkedin.com/in/oaslananka" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:your.email@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/oaslananka" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<p align="center">
+<i>⭐ Star my repositories if you find them interesting!</i>
+</p>
+
+</div>
